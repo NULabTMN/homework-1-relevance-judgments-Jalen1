@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/J7-Ztghw)
 # CS6200 / IS4200: Relevance Judgments
 
 TLDR: In this assignment, you will choose three topics represented in the _Chronicling America_ collection of historic newspapers and record the text of passages relevant to those topics in the file `topics.xml`.
